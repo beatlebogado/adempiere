@@ -33,7 +33,7 @@ public interface IDeveloperModeBL extends ISingletonService
 
 	/**
 	 * 
-	 * @return true if developer mode is enabled
+	 * @return true if developer mode is enabled 
 	 */
 	boolean isEnabled();
 
